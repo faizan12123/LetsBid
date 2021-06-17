@@ -3,7 +3,7 @@
 Authors: Bakkr Alnaji, Faizan Hussain, Artin Mirzayans, Evan Johnson, Thanh Tran
 
 
-List of features/services and Its Status:
+List of features/services and Its Status:<br />
 Sign In Page With User Verification ~ Status: Completed
 Functionality of Bidding Functionality ~ Status: Completed
 Functionality of Auction Functionality ~ Status: Completed
